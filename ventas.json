@@ -1,0 +1,10 @@
+{
+  "ventas": [
+    {
+      "empleado": "daniel",
+      "producto": "camiseta",
+      "precio": 100,
+      "comision": 6.5
+    }
+  ]
+}
